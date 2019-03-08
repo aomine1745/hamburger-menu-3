@@ -47,7 +47,6 @@ body{
 }
 .icon.active .hamburger:before{
 	top: 0;
-	
 	transform: rotate(45deg);
 }
 .icon.active .hamburger:after{
